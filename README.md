@@ -2,7 +2,7 @@
 
 Esse é um projeto de estudo pessoal, que consome uma API de super heróis <www.superheroapi.com> e exibe informações para o usuário.
 
-Frontend basico inspirado em super heróis e vilões para servir **utilizando** a SuperHeroAPI (https://superheroapi.com/) como fonte de dados.
+Esse projeto utiliza vuejs para construção da interface, vuex para gerenciamento de estado e axios para consumo de api.
 
 ## Requisitos
 
